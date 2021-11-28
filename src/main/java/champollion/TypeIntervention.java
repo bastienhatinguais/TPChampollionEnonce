@@ -1,5 +1,5 @@
 package champollion;
 
 public enum TypeIntervention {
-	CM, TD, TP;	
+	CM, TD, TP, Autre; // Autre pour tests
 }
